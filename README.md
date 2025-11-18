@@ -1,17 +1,17 @@
 <div align="center">
   
-  # 🫀 ECG Analysis Platform
+  # 🫀 CardioScope-AI 🫀
 </div>
 <div align="center">
 
-### AI-Powered ECG Arrhythmia Detection System
+### AI-Powered ECG Analyzer System
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.20.0-orange.svg)](https://www.tensorflow.org/)
 [![Flask](https://img.shields.io/badge/Flask-Latest-green.svg)](https://flask.palletsprojects.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**⚠️ DISCLAIMER: This project is for research and educational purposes only. Do not use for clinical diagnosis or medical decisions.**
+**⚠️DISCLAIMER: This project is intended for research and educational use only. The results may be approximate and should not be fully relied upon for medical decisions or clinical diagnosis.**
 
 [Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) • [API Reference](#-api-reference) • [Contributing](#-contributing)
 
