@@ -103,9 +103,9 @@ The platform includes a **modern web interface** for patient management, real-ti
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/9a6a548a-285e-40ae-8cb9-fcf1a47f9163" alt="Patient Upload" width="500"/></td>
-    <td><img src="https://github.com/user-attachments/assets/b03c454b-c00e-48e3-811d-c41c4c0bda2d" alt="Analysis Results" width="500"/></td>
-    <td><img src="https://github.com/user-attachments/assets/d6fb00f3-b8d8-4739-962d-f6fc0fb1fc23" alt="ECG Chart View" width="500"/></td>
+    <td><img src="https://github.com/user-attachments/assets/cc32c369-470d-45d9-b4d9-c7f2a282483e" alt="Landing Page" width="500"/></td>
+    <td><img src="https://github.com/user-attachments/assets/9269508e-da86-4676-843f-3e2b8a0b0c5e" alt="Analysis Results" width="500"/></td>
+    <td><img src="https://github.com/user-attachments/assets/0884c3a7-f4b8-4e31-b10a-ce63539ef5f3" alt="ECG Chart View" width="500"/></td>
   </tr>
   <tr>
     <td align="center"><b>1. Landing Page</b></td>
