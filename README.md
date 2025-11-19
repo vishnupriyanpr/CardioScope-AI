@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 🫀 CardioScope-AI 🫀
+  #  CardioScope-AI 🫀
 </div>
 <div align="center">
 
@@ -21,46 +21,46 @@
 
 ---
 
-## 📋 Overview
+##  Overview
 
 ECG Analysis Platform is a **lightweight Flask-based web service** that leverages deep learning (CNN/LSTM) to analyze electrocardiogram data for arrhythmia detection. The system accepts both **raw numeric traces** (`.csv`) and **scanned ECG images**, providing comprehensive cardiac rhythm analysis.
 
 ### What It Does
 
-- 🔍 **Rhythm Classification** - Identifies normal sinus rhythm and various arrhythmias
-- 📏 **Interval Measurements** - PR, QRS, QT interval analysis
-- ❤️ **Heart Rate Estimation** - Accurate BPM calculation
-- ⚠️ **Risk Assessment** - Confidence scoring and risk stratification
-- 📝 **Clinical Recommendations** - AI-generated doctor's notes and actionable insights
+-  **Rhythm Classification** - Identifies normal sinus rhythm and various arrhythmias
+-  **Interval Measurements** - PR, QRS, QT interval analysis
+-  **Heart Rate Estimation** - Accurate BPM calculation
+-  **Risk Assessment** - Confidence scoring and risk stratification
+-  **Clinical Recommendations** - AI-generated doctor's notes and actionable insights
 
 The platform includes a **modern web interface** for patient management, real-time visualization, and report generation, while also offering a **REST API** for programmatic access.
 
 ---
 
-## ✨ Features
+## Features
 
 ### Core Capabilities
 
-- 🔍 **Multi-Format Input** - Supports CSV numeric traces and image formats (PNG, JPG, JPEG, BMP)
-- 🧠 **Deep Learning Model** - Pre-trained CNN/LSTM architecture trained on MIT-BIH dataset
-- 📊 **12-Lead ECG Support** - Comprehensive analysis of standard ECG leads (I, II, III, aVR, aVL, aVF, V1-V6)
-- 📈 **Real-Time Visualization** - Interactive Chart.js plotting for waveform analysis
-- 💾 **Patient Management** - LocalStorage-based patient records with full CRUD operations
-- 📄 **Report Generation** - Structured JSON outputs with persistent storage in `json_outputs/`
-- 🔌 **REST API** - Clean, documented API for integration with external systems
+-  **Multi-Format Input** - Supports CSV numeric traces and image formats (PNG, JPG, JPEG, BMP)
+-  **Deep Learning Model** - Pre-trained CNN/LSTM architecture trained on MIT-BIH dataset
+-  **12-Lead ECG Support** - Comprehensive analysis of standard ECG leads (I, II, III, aVR, aVL, aVF, V1-V6)
+-  **Real-Time Visualization** - Interactive Chart.js plotting for waveform analysis
+-  **Patient Management** - LocalStorage-based patient records with full CRUD operations
+-  **Report Generation** - Structured JSON outputs with persistent storage in `json_outputs/`
+-  **REST API** - Clean, documented API for integration with external systems
 
 ### Technical Features
 
-- ⚡ **GPU Acceleration** - Automatic CUDA utilization when available
-- 🔧 **Signal Processing** - NeuroKit2 integration for advanced preprocessing
-- 🎯 **High Accuracy** - Trained on validated MIT-BIH arrhythmia database
-- 🔒 **Secure File Handling** - Validated uploads with type and size checking
-- 📱 **Responsive Design** - Works seamlessly on desktop and mobile browsers
-- 🐛 **Debug Tools** - Built-in debugging endpoints and trace visualization
+-  **GPU Acceleration** - Automatic CUDA utilization when available
+-  **Signal Processing** - NeuroKit2 integration for advanced preprocessing
+-  **High Accuracy** - Trained on validated MIT-BIH arrhythmia database
+-  **Secure File Handling** - Validated uploads with type and size checking
+-  **Responsive Design** - Works seamlessly on desktop and mobile browsers
+-  **Debug Tools** - Built-in debugging endpoints and trace visualization
 
 ***
 
-## 🎬 Demo
+## Demo
 
 ### Web Interface Features
 
@@ -95,7 +95,7 @@ The platform includes a **modern web interface** for patient management, real-ti
 ***
 
 
-## 📊 Sample Output
+## Sample Output
 
 <div align="center">
 
@@ -121,7 +121,7 @@ The platform includes a **modern web interface** for patient management, real-ti
 
 
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 
@@ -135,7 +135,7 @@ The platform includes a **modern web interface** for patient management, real-ti
 #### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/Vivek-the-creator/ECG-Analyser.git
+git clone https://github.com/vishnupriyanpr/ECG-Analyser.git
 cd ECG-Analyser
 ```
 
@@ -175,7 +175,7 @@ pip install -r requirements.txt
 
 ***
 
-## 💻 Usage
+## Usage
 
 ### Starting the Server
 
@@ -236,7 +236,7 @@ curl http://127.0.0.1:5000/debug/info
 
 ***
 
-## 📡 API Reference
+##  API Reference
 
 ### Endpoints
 
@@ -292,7 +292,7 @@ Returns model metadata and configuration.
 ```
 ***
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 ECG-Analyser/
@@ -321,7 +321,7 @@ ECG-Analyser/
 
 ***
 
-## 📊 Data & Assets
+##  Data & Assets
 
 ### Input Data
 
@@ -352,7 +352,7 @@ time,I,II,III,aVR,aVL,aVF,V1,V2,V3,V4,V5,V6
 
 ***
 
-## 🔧 Troubleshooting
+##  Troubleshooting
 
 ### Common Issues
 
@@ -437,7 +437,7 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 ***
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -478,7 +478,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 MIT License
 
-Copyright (c) 2025 Vivek-the-creator
+Copyright (c) 2025 vishnupriyanpr
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -502,10 +502,10 @@ If you use this project in your research, please cite:
 
 ```bibtex
 @software{ecg_analyser_2025,
-  author = {Vivek},
+  author = {Vishnupriyan P R},
   title = {ECG Analysis Platform: AI-Powered Arrhythmia Detection},
   year = {2025},
-  url = {https://github.com/Vivek-the-creator/ECG-Analyser}
+  url = {https://github.com/vishnupriyanpr/ECG-Analyser}
 }
 ```
 
@@ -513,9 +513,9 @@ If you use this project in your research, please cite:
 
 ## 📞 Contact & Support
 
-- **GitHub Issues:** [Report bugs or request features](https://github.com/Vivek-the-creator/ECG-Analyser/issues)
-- **Discussions:** [Ask questions and share ideas](https://github.com/Vivek-the-creator/ECG-Analyser/discussions)
-- **Email:** [Contact the maintainer](mailto:vivek@example.com)
+- **GitHub Issues:** [Report bugs or request features](https://github.com/vishnupriyanpr/ECG-Analyser/issues)
+- **Discussions:** [Ask questions and share ideas](https://github.com/vishnupriyanpr/ECG-Analyser/discussions)
+- **Email:** [Contact the maintainer](mailto:priyanv783@gmail.com)
 
 ***
 
@@ -535,7 +535,7 @@ If you use this project in your research, please cite:
 
 ---
 
-## ⚡ Quick Reference
+##  Quick Reference
 
 | Task | Command |
 |------|---------|
