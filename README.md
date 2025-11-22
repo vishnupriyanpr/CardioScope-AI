@@ -13,9 +13,9 @@
 
 **DISCLAIMER: This project is intended for research and educational use only. The results may be approximate and should not be fully relied upon for medical decisions or clinical diagnosis.**
 
-[Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) • [API Reference](#-api-reference) • [Contributing](#-contributing)
+[Features](#features) • [Demo](#demo) • [Installation](#installation) • [Usage](#usage) • [API Reference](#api-reference) • [Contributing](#contributing)
 
-[Sample Output](#-sample-output)
+[Sample Output](#sample-output)
 
 </div>
 
