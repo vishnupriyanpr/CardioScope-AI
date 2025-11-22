@@ -11,7 +11,7 @@
 [![Flask](https://img.shields.io/badge/Flask-Latest-green.svg)](https://flask.palletsprojects.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**⚠️DISCLAIMER: This project is intended for research and educational use only. The results may be approximate and should not be fully relied upon for medical decisions or clinical diagnosis.**
+**DISCLAIMER: This project is intended for research and educational use only. The results may be approximate and should not be fully relied upon for medical decisions or clinical diagnosis.**
 
 [Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) • [API Reference](#-api-reference) • [Contributing](#-contributing)
 
@@ -402,7 +402,7 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 ***
 
-## 🛠️ Development
+##  Development
 
 ### Code Structure
 
@@ -471,7 +471,7 @@ Contributions are welcome! Here's how you can help:
 
 ***
 
-## 📄 License
+##  License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
@@ -487,7 +487,7 @@ in the Software without restriction...
 
 ***
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **MIT-BIH Arrhythmia Database** - Training data source ([PhysioNet](https://physionet.org/))
 - **TensorFlow Team** - Deep learning framework
@@ -511,7 +511,7 @@ If you use this project in your research, please cite:
 
 ***
 
-## 📞 Contact & Support
+##  Contact & Support
 
 - **GitHub Issues:** [Report bugs or request features](https://github.com/vishnupriyanpr/ECG-Analyser/issues)
 - **Discussions:** [Ask questions and share ideas](https://github.com/vishnupriyanpr/ECG-Analyser/discussions)
@@ -519,7 +519,7 @@ If you use this project in your research, please cite:
 
 ***
 
-## 🔮 Roadmap
+## 8 Roadmap
 
 ### Version 1.1 (Q1 2026)
 - [ ] PDF report export
